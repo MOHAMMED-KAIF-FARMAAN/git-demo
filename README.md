@@ -1,3 +1,3 @@
 # git-demo
-for practice
+for git practice
 first change
